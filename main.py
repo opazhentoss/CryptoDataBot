@@ -10,7 +10,7 @@ import logging
 from aiogram import Bot, Dispatcher, types, executor
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 
-bot = Bot(token="6291948825:AAHWk60Vlx_N33RHovw7KPVj2ZEZlBnUuO8", parse_mode=types.ParseMode.HTML)
+bot = Bot(token="Вставьте токен", parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot, storage=MemoryStorage())
 logging.basicConfig(level=logging.INFO)
 
