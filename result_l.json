@@ -1,0 +1,27 @@
+[
+    {
+        "name": "ASIX Token",
+        "priceChange24h": -98.41532634,
+        "slug": "asix-token"
+    },
+    {
+        "name": "Slam Token",
+        "priceChange24h": -96.60501749,
+        "slug": "slam-token"
+    },
+    {
+        "name": "APPLECHAIN",
+        "priceChange24h": -95.96421621,
+        "slug": "applechain"
+    },
+    {
+        "name": "Ponyo Impact",
+        "priceChange24h": -84.2822174,
+        "slug": "ponyo-inu"
+    },
+    {
+        "name": "Sword Art Online",
+        "priceChange24h": -68.76462739,
+        "slug": "sword-art-online"
+    }
+]

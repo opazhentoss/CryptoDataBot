@@ -1,0 +1,27 @@
+[
+    {
+        "name": "CATCOIN",
+        "priceChange24h": 970.51378502,
+        "slug": "catcoin-token"
+    },
+    {
+        "name": "Crypto Inu",
+        "priceChange24h": 535.42501074,
+        "slug": "crypto-inu"
+    },
+    {
+        "name": "Web3 Doge",
+        "priceChange24h": 274.77273589,
+        "slug": "web3-doge"
+    },
+    {
+        "name": "Konstrukt",
+        "priceChange24h": 185.15978965,
+        "slug": "konstrukt"
+    },
+    {
+        "name": "ASYAGRO",
+        "priceChange24h": 177.27588555,
+        "slug": "asyagro"
+    }
+]
