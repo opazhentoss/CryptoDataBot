@@ -75,7 +75,7 @@ async def main():
     register_handlers_searched(dp)
     register_handlers_subscribe(dp)
     loop = asyncio.get_event_loop()
-    loop.create_task(notifications(15))
+    loop.create_task(notifications(3600))
     await set_commands(bot)
     await dp.skip_updates()
     await dp.start_polling()
